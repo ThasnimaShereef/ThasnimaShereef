@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React and AI in Web Development
 - 💞️ I’m looking to collaborate on web development projects and innovative tech solutions
-- 📫 How to reach me : thasnimashereef@gmail.com | https://www.linkedin.com/in/thasnima-shereef
+- 📫 How to reach me : thasnimashereef@gmail.com | [LinkedIn](https://www.linkedin.com/in/thasnima-shereef)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
